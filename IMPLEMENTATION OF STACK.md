@@ -42,5 +42,6 @@ print(stack)
 ```
 ### OUTPUT 
 <img width="842" height="259" alt="image" src="https://github.com/user-attachments/assets/8f16a9bf-0e04-4733-9ec3-99d42a7d4307" />
+
 ### RESULT
 Successfully implemented a stack using Python list. Items were added using append() and removed using pop(), demonstrating LIFO (Last In First Out) behavior of stack.
